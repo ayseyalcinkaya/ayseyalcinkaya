@@ -18,6 +18,10 @@
 
 <p align="left">I'm a creative software developer who crafts innovative solutions and keeps a close eye on the latest technological developments! My problem-solving skills, analytical mindset, and communication abilities have led to success in various projects.<br><br>💻 With extensive experience in computer programming, I specialize in software development across different platforms. I have in-depth knowledge of web application development, particularly with ASP.NET Core MVC and Web API. I create user-friendly interfaces using HTML, CSS, and JavaScript on the frontend.<br><br>🔒 I'm well-versed in the security of ASP.NET MVC applications and global error handling. Proficient in database design and management using technologies like SQL and Entity Framework.<br><br>🌐 Having learned to effectively utilize layered architecture in large-scale projects, I possess leadership skills in planning, monitoring, and successfully completing complex endeavors.<br><br>🤝 Focused on teamwork, I consistently put forth the effort needed to deliver projects on time.<br><br>Excited to get to know you better and collaborate! 🚀<br><br>#SoftwareDeveloper #TechEnthusiast #CreativeSolutions #Leadership</p>
 
+```markdown
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+```
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
